@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 0b84a4a5bb752bd439f3f48bca42eb28
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Boss HP Bar_Frame_0
+    originalName: 
+    pivot: {x: 3.2432432, y: -0.88235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 430
+      width: 74
+      height: 51
+    spriteID: 18e8885772cb13742aa96a5b474b3181
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 430}
+  - name: Boss HP Bar_Frame_1
+    originalName: 
+    pivot: {x: 1.875, y: -0.88235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 317
+      y: 371
+      width: 128
+      height: 51
+    spriteID: 1aabd41915dcb4e48a3a97a2b04b79f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 317, y: 371}
+  - name: Boss HP Bar_Frame_2
+    originalName: 
+    pivot: {x: 1.2307693, y: -0.88235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 430
+      width: 195
+      height: 51
+    spriteID: c2b4cd31dc811a44090a597374bc9b55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 430}
+  - name: Boss HP Bar_Frame_3
+    originalName: 
+    pivot: {x: 0.78688526, y: -0.88235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 371
+      width: 305
+      height: 51
+    spriteID: a9fbb0bb99d97c64485baf1ab276fb07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 371}
+  - name: Boss HP Bar_Frame_4
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.88235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 312
+      width: 432
+      height: 51
+    spriteID: 69ea94789770365489d23aaa23e2fd58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 312}
+  - name: Boss HP Bar_Frame_5
+    originalName: 
+    pivot: {x: 0.49281317, y: -0.88235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 135
+      width: 487
+      height: 51
+    spriteID: 1d84fbcda6a9db046a005651881275aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 135}
+  - name: Boss HP Bar_Frame_6
+    originalName: 
+    pivot: {x: 0.49281317, y: -0.88235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 194
+      width: 487
+      height: 51
+    spriteID: 4f28a0285f1f7ec4ca6cdf314eba756d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 194}
+  - name: Boss HP Bar_Frame_7
+    originalName: 
+    pivot: {x: 0.49694502, y: -0.88235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 76
+      width: 491
+      height: 51
+    spriteID: c7c2bde896c59224f8e4de8fc2571478
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 76}
+  - name: Boss HP Bar_Frame_8
+    originalName: 
+    pivot: {x: 0.50501, y: -0.59375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 499
+      height: 64
+    spriteID: 9b274c4a0f9b9234f9593fab9d285f11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Boss HP Bar_Frame_9
+    originalName: 
+    pivot: {x: 0.49281317, y: -0.88235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 253
+      width: 487
+      height: 51
+    spriteID: 8d3f1975ce9f8ca4abdc1ab449b2def5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 253}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 837863348
+    name: Boss HP Bar
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Boss HP Bar_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 16
+        y: 45
+        width: 74
+        height: 51
+      spriteId: 18e8885772cb13742aa96a5b474b3181
+    - name: Boss HP Bar_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 16
+        y: 45
+        width: 128
+        height: 51
+      spriteId: 1aabd41915dcb4e48a3a97a2b04b79f1
+    - name: Boss HP Bar_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 16
+        y: 45
+        width: 195
+        height: 51
+      spriteId: c2b4cd31dc811a44090a597374bc9b55
+    - name: Boss HP Bar_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 16
+        y: 45
+        width: 305
+        height: 51
+      spriteId: a9fbb0bb99d97c64485baf1ab276fb07
+    - name: Boss HP Bar_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 16
+        y: 45
+        width: 432
+        height: 51
+      spriteId: 69ea94789770365489d23aaa23e2fd58
+    - name: Boss HP Bar_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 16
+        y: 45
+        width: 487
+        height: 51
+      spriteId: 1d84fbcda6a9db046a005651881275aa
+    - name: Boss HP Bar_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 16
+        y: 45
+        width: 487
+        height: 51
+      spriteId: 4f28a0285f1f7ec4ca6cdf314eba756d
+    - name: Boss HP Bar_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 12
+        y: 45
+        width: 491
+        height: 51
+      spriteId: c7c2bde896c59224f8e4de8fc2571478
+    - name: Boss HP Bar_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 4
+        y: 38
+        width: 499
+        height: 64
+      spriteId: 9b274c4a0f9b9234f9593fab9d285f11
+    - name: Boss HP Bar_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 16
+        y: 45
+        width: 487
+        height: 51
+      spriteId: 8d3f1975ce9f8ca4abdc1ab449b2def5
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 512, y: 128}

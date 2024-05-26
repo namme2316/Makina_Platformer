@@ -1,0 +1,1561 @@
+fileFormatVersion: 2
+guid: 5cf4e47ef95de4247bea4e511f015fab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RogerBasicAttack_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1919
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c58ac51993124545abd63d77b1f7e35
+      internalID: -387191728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1919
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c272f51ba59f7984cb27038fbaf7d6fa
+      internalID: 667867073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1919
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e4453e471e28d4cb2ef115ae0e4d91
+      internalID: 1940577729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_3
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1919
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66faf72ffd9c34b4d960928b516e2497
+      internalID: 1760851637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1919
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9996ca581f20a45971212677974573
+      internalID: -232380402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1919
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8eff98b3fefd14ea871b8c284e66bd
+      internalID: -1253649467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1919
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c03d08cfee82641acc97584e1f0afa
+      internalID: -1530685479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1919
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f916f2e52185a34e8af31add59dd630
+      internalID: 292553125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1663
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ef50042597439489f6c2c63fe41bd3
+      internalID: -2099430279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1663
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978034ca4443ed248b4528f0c3574a15
+      internalID: -1901703187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1663
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc99d68db431d64196db6e54e2722a4
+      internalID: 526975027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_11
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1663
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48cef447a41ede4ba02df9755048ebe
+      internalID: 1495084268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1663
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5867a26b198288d43ae7d2017836cddc
+      internalID: -1284328304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1663
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a84b8cb34e25f418c93a56e81d803f
+      internalID: -1732172705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_14
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1663
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88260659bd57d9f4caa6911bd0f9c5f8
+      internalID: 2110486770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_15
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1663
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccaab196070e59468ea6ab8faed9366
+      internalID: -383898637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1407
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bedfa98a7270b94b9d2735b99b3275d
+      internalID: -1119714124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1407
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2047e1b5187331448c462315bde4cc8
+      internalID: 1033989835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_18
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1407
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6f84cc756faac44b15869a7345ef89
+      internalID: -1825649638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_19
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1407
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aff45ae4db51b4297bf1d552de6868
+      internalID: -1929325643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_20
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1407
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df03007cf3fbdb84598e90c801186d39
+      internalID: -1471594513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_21
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1407
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26982617b4a2f2b4a857f4f534bb0e55
+      internalID: 940395336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_22
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1407
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc3f2d0361e5aa418fcba2febdee86d
+      internalID: -105821690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1407
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dd86f30cddc9f458d3697dbf551ef6
+      internalID: 737047992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1151
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305c892b310f42a4880c81448a021b3c
+      internalID: -998600172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1151
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d7287ca0c2b0041b38af2721ee435d
+      internalID: -1061372843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_26
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1151
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8d91231810d6342adbec622ccfab3f
+      internalID: -294164961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_27
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1151
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed6c9d0400c6b146b932cf43a3dab2d
+      internalID: -294967231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_28
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1151
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff477d046aee564483a25f21a6e512d
+      internalID: -622564944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_29
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1151
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0d0ff8003899242817d74d114c50ef
+      internalID: -1970306027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_30
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1149
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f1446add76ac847a5dbcf6a49edd9c
+      internalID: -490777200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_31
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1151
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8c9f1cfb18e6e4fb2a8bd1b4616dec
+      internalID: -2049650121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 895
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd02cf27e888534c939862dd3325011
+      internalID: 554360250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 895
+        width: 94
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105fddc523fbb0c4d95557a7518f4b80
+      internalID: 1245968835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_34
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 895
+        width: 97
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00961e6331147f46ac51423d3d430c4
+      internalID: 12136710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_35
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 895
+        width: 97
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3f2ea889a6d674fa1253f584575500
+      internalID: -90942034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_36
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 895
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086046bd879c39945b08b66f2cf53004
+      internalID: 1719825675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_37
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 895
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a7495b8649019408746710b76263de
+      internalID: 220760940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_38
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 895
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5045c9b9312644a45b2ad0ae8f0cb75c
+      internalID: 732334315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_39
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 895
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079832955da88d6489ecb899f9452a91
+      internalID: -392728838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 639
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d045329ea4db300419df9849dd42ce2b
+      internalID: 256252355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_41
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 639
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531908a3f89725044ba21157efb9fbf7
+      internalID: 412510740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_42
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 639
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11532ce2c0e6680428820d8537d60898
+      internalID: 1494008672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_43
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 639
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695ee4601c5b9204ea899e8a25df8281
+      internalID: -501998069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_44
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 639
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10459a466cd667143bf26f7b60c7408b
+      internalID: -1640021558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_45
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 639
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b0f548458c2014f874df2747a4d681
+      internalID: 423588774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_46
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 639
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781b5d8c150a47748b05b42c2f0bfdb4
+      internalID: 401111552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_47
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 639
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56f622bc9ee0743a1fb9f3d836dd87
+      internalID: 1606015258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_48
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 383
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee70b45412fb0474c919fef4f1de14fc
+      internalID: 28347252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_49
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 383
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bcdc590ad76f94d87d1b4a1edeab74
+      internalID: -624692253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_50
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 383
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f008fbd6db130c249b2f6d3888fe7e23
+      internalID: 459455451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_51
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 383
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ca5681cae777a458124d49fbaa245e
+      internalID: 1674293131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_52
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 383
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b81e8daa05804147b7c6cd9fb7cae9d
+      internalID: -2042270029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_53
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 383
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a58297691ff70346a56291348fd7c5b
+      internalID: 1464965604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_54
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 383
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd77289fe14ef247a32ee242f7ce5bd
+      internalID: -1627878975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_55
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 383
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f46529be6658c4087a3dcfcaa81079
+      internalID: 1585039994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_56
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 127
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cdd560eda7b934e8ec37e3bfaa9f5d
+      internalID: -1938380227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_57
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 127
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad456b75aab99942bace2a805c9888a
+      internalID: -1315670362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_58
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 127
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a084b8c7f9a0d742af3ba6cb2a16561
+      internalID: -1995125593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_59
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 127
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7eaad3b84832b4bba74ed8a9ea86a6
+      internalID: -1576739589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_60
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 127
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdb39557df40a44c95d63b8c9746662
+      internalID: -396829207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_61
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 127
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c37d3d4fb423364dbd50a054d3707cf
+      internalID: 1253484820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_62
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 127
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018873130c2ebef4588ea1ca835263f0
+      internalID: -1967615767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogerBasicAttack_63
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 127
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10517a0f77b5028408db03294eb968ed
+      internalID: -1775233682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RogerBasicAttack_0: -387191728
+      RogerBasicAttack_1: 667867073
+      RogerBasicAttack_10: 526975027
+      RogerBasicAttack_11: 1495084268
+      RogerBasicAttack_12: -1284328304
+      RogerBasicAttack_13: -1732172705
+      RogerBasicAttack_14: 2110486770
+      RogerBasicAttack_15: -383898637
+      RogerBasicAttack_16: -1119714124
+      RogerBasicAttack_17: 1033989835
+      RogerBasicAttack_18: -1825649638
+      RogerBasicAttack_19: -1929325643
+      RogerBasicAttack_2: 1940577729
+      RogerBasicAttack_20: -1471594513
+      RogerBasicAttack_21: 940395336
+      RogerBasicAttack_22: -105821690
+      RogerBasicAttack_23: 737047992
+      RogerBasicAttack_24: -998600172
+      RogerBasicAttack_25: -1061372843
+      RogerBasicAttack_26: -294164961
+      RogerBasicAttack_27: -294967231
+      RogerBasicAttack_28: -622564944
+      RogerBasicAttack_29: -1970306027
+      RogerBasicAttack_3: 1760851637
+      RogerBasicAttack_30: -490777200
+      RogerBasicAttack_31: -2049650121
+      RogerBasicAttack_32: 554360250
+      RogerBasicAttack_33: 1245968835
+      RogerBasicAttack_34: 12136710
+      RogerBasicAttack_35: -90942034
+      RogerBasicAttack_36: 1719825675
+      RogerBasicAttack_37: 220760940
+      RogerBasicAttack_38: 732334315
+      RogerBasicAttack_39: -392728838
+      RogerBasicAttack_4: -232380402
+      RogerBasicAttack_40: 256252355
+      RogerBasicAttack_41: 412510740
+      RogerBasicAttack_42: 1494008672
+      RogerBasicAttack_43: -501998069
+      RogerBasicAttack_44: -1640021558
+      RogerBasicAttack_45: 423588774
+      RogerBasicAttack_46: 401111552
+      RogerBasicAttack_47: 1606015258
+      RogerBasicAttack_48: 28347252
+      RogerBasicAttack_49: -624692253
+      RogerBasicAttack_5: -1253649467
+      RogerBasicAttack_50: 459455451
+      RogerBasicAttack_51: 1674293131
+      RogerBasicAttack_52: -2042270029
+      RogerBasicAttack_53: 1464965604
+      RogerBasicAttack_54: -1627878975
+      RogerBasicAttack_55: 1585039994
+      RogerBasicAttack_56: -1938380227
+      RogerBasicAttack_57: -1315670362
+      RogerBasicAttack_58: -1995125593
+      RogerBasicAttack_59: -1576739589
+      RogerBasicAttack_6: -1530685479
+      RogerBasicAttack_60: -396829207
+      RogerBasicAttack_61: 1253484820
+      RogerBasicAttack_62: -1967615767
+      RogerBasicAttack_63: -1775233682
+      RogerBasicAttack_7: 292553125
+      RogerBasicAttack_8: -2099430279
+      RogerBasicAttack_9: -1901703187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
